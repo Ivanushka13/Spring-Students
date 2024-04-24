@@ -1,2 +1,2 @@
 # Spring-Students
-Pet project with Spring
+Student management system with Spring
